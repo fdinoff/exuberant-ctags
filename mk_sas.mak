@@ -31,6 +31,7 @@ OBJECTS = \
 	pascal.$(OBJEXT) \
 	perl.$(OBJEXT) \
 	php.$(OBJEXT) \
+	protobuf.$(OBJEXT) \
 	python.$(OBJEXT) \
 	read.$(OBJEXT) \
 	rexx.$(OBJEXT) \

@@ -33,6 +33,7 @@ SOURCES = ¶
 	pascal.c ¶
 	perl.c ¶
 	php.c ¶
+	protobuf.c ¶
 	python.c ¶
 	read.c ¶
 	rexx.c ¶ ¶
@@ -76,6 +77,7 @@ OBJ = ¶
 	pascal.o ¶
 	perl.o ¶
 	php.o ¶
+	protobuf.o ¶
 	python.o ¶
 	read.o ¶
 	rexx.o ¶

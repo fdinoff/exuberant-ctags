@@ -42,6 +42,7 @@
 	PascalParser, \
 	PerlParser, \
 	PhpParser, \
+	ProtobufParser, \
 	PythonParser, \
 	RexxParser, \
 	RubyParser, \
